@@ -2,7 +2,7 @@
 
 # set_default_macOS_Settings.zsh
 # Hypoport hub SE -=- Mirko Steinbrecher
-# Created on 14.01.2025
+# Created on 02.09.2025
 
 # This script sets default settings for Finder, Menubar and Dock.
 # Built with the help of plistwatch https://developer.okta.com/blog/2021/07/19/discover-macos-settings-with-plistwatch
